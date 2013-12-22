@@ -1,5 +1,5 @@
 # PHPstrap
-# Welcome to [*PHPstrap's*](https://phpstrap.in)
+# Welcome to [*PHPstrap's*](https://phpstrap.in) 
 
 Github.
-# by [Stasy Meclazcke](http://www.aeipsapps.tumblr.com)
+ by [Stasy Meclazcke](http://www.aeipsapps.tumblr.com)

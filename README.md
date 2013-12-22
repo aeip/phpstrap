@@ -1,6 +1,3 @@
-# One Month Rails
+# PHPstrapWelcome to [*PHPstrap's*](https://phpstrap.in)
 
-This is the pinteresting sample application for 
-[*One Month Rails*](http://onemonthrails.com)
-
-by [Stasy Meclazcke](http://www.aeipsapps.tumblr.com)
+ Github by [Stasy Meclazcke](http://www.aeipsapps.tumblr.com)
